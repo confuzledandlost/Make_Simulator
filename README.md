@@ -54,7 +54,7 @@ This project requires:
 ---
 
 ## Directory Structure
-
+```
 src/
 |-- main.cpp                 # The entry point of the program
 |-- GraphNode.hpp/.cpp       # Represents nodes of the dependency graph
@@ -66,7 +66,7 @@ src/
 |-- systemInterface.hpp/.cpp # Provides utility functions for file and command operations
 Makefile                     # Build instructions for the project
 README.md                    # Documentation for the project
-
+```
 ---
 
 ## Build Instructions

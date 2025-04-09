@@ -176,7 +176,7 @@ Execute the program:
 
 ## Author
 
-Brandon Robinson (Created the project functionality on **4/12/24**).
+Brandon Robinson
 
 ---
 

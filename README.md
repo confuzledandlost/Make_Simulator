@@ -182,4 +182,4 @@ Brandon Robinson
 
 ## License
 
-This project is distributed for educational purposes. Refer to the LICENSE file (if included) for more details.
+This project is distributed for educational purposes.
